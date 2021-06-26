@@ -8,6 +8,7 @@
 .black_color{
     background-color: #fff;
 }
+
 .text_gris{
   color: #5d6169;
 }
@@ -15,9 +16,16 @@
 .main_section{
     padding: 15%;
 }
+
 body{
   font-family: 'Open Sans', sans-serif;
 }
+=======
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 /* -------------------------------------------  PRODUCTOS */
 
