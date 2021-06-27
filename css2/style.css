@@ -9,7 +9,12 @@
     background-color: #fff;
 }
 
-
+.error_color{
+    background-color:   #ecd3ce ;
+}
+.boton_error_color{
+  background-color:  #4a315b ;
+}
 .main_section{
     padding: 15%;
 }
