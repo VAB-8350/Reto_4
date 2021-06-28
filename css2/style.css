@@ -8,6 +8,13 @@
 .black_color{
     background-color: #fff;
 }
+
+.error_color{
+    background-color:   #ecd3ce ;
+}
+.boton_error_color{
+  background-color:  #4a315b ;
+}
 .text_gris{
   color: #5d6169;
 }
@@ -15,9 +22,15 @@
 .main_section{
     padding: 15%;
 }
+
 body{
   font-family: 'Open Sans', sans-serif;
 }
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 /* -------------------------------------------  PRODUCTOS */
 
