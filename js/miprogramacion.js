@@ -1,0 +1,20 @@
+$(document).ready(function() {
+    $("#faqs").click(function(){
+        $("#centro").load("faqs.html");
+    });
+    $("#productos").click(function(){
+        $("#centro").load("productos&descripciones.html");
+    });
+    $("#compra").click(function(){
+        $("#centro").load("compraexitosa.html");
+    });
+    $("#error").click(function(){
+        $("#centro").load("error.html");
+    });
+    $("#terminos").click(function(){
+        $("#centro").load("terminos&condiciones.html");
+    });
+    $("#home").click(function(){
+        $("#centro").load("home.html");
+    });
+});
